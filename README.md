@@ -1,1 +1,1 @@
-A chaos based audion encryption using a logical XOR. 
+A chaos based audio encryption using a logical XOR. 
